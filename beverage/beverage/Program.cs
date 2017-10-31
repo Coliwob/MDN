@@ -23,7 +23,8 @@ namespace beverage
 		}
 	}
 
-	public class Drink 
+
+	public class Drink : IDrink
 	{
 		private string brand;
 		private double volume;
@@ -57,4 +58,10 @@ namespace beverage
 		}
 	}
 
+	public interface IDrink
+	{
+		string Brand { get; }
+		double Volume { get; }
+		double PercentCaffine { get; }
+	}
 }
