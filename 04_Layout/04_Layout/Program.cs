@@ -40,7 +40,6 @@ namespace layout
 
 			vBox.PackStart(new Entry(), true, true, 0);
 			vBox.PackStart(new Entry(), true, true, 0);
-			hBox.PackStart(new Entry(), true, true, 0);
 
 			mainWindow.DeleteEvent += Window_Delete;
 			mainWindow.ShowAll();
