@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SubClassing", "04_SubClassing\04_SubClassing.csproj", "{67C349E0-D180-48AE-9ECB-8CE7279BA16D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C349E0-D180-48AE-9ECB-8CE7279BA16D}.Debug|x86.ActiveCfg = Debug|x86
+		{67C349E0-D180-48AE-9ECB-8CE7279BA16D}.Debug|x86.Build.0 = Debug|x86
+		{67C349E0-D180-48AE-9ECB-8CE7279BA16D}.Release|x86.ActiveCfg = Release|x86
+		{67C349E0-D180-48AE-9ECB-8CE7279BA16D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
