@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_TreeView2", "04_TreeView2\04_TreeView2.csproj", "{B94D56DA-3708-48A1-94A8-30DCCD6D6253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94D56DA-3708-48A1-94A8-30DCCD6D6253}.Debug|x86.ActiveCfg = Debug|x86
+		{B94D56DA-3708-48A1-94A8-30DCCD6D6253}.Debug|x86.Build.0 = Debug|x86
+		{B94D56DA-3708-48A1-94A8-30DCCD6D6253}.Release|x86.ActiveCfg = Release|x86
+		{B94D56DA-3708-48A1-94A8-30DCCD6D6253}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -41,6 +41,9 @@ public class program
 			iter = store.AppendValues("Point " + i.ToString(), " Distance " + (4 - i).ToString());
 		}
 
+
+
+
 		w.ShowAll();
 		Application.Run();
 
@@ -53,4 +56,6 @@ public class program
 		Application.Quit();
 	}
 
+
 }
+
